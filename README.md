@@ -1,1 +1,4 @@
-Repository for notebooks which will be used in "Coding for the Digital Humanities" workshops hosted by MacOdrum Library at Carleton University.# CFH_F23
+# CODING FOR THE HUMANITIES
+## Fall 2023
+### Hello World!
+This repository is to store all the code, work and updates done throughout the course of coding for the humanities. 
